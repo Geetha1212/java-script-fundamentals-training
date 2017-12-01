@@ -13,11 +13,11 @@
       }
   ```  
    #### Accessing objects
-    ```
+   ```
         myfirstObject.firstName ——> Gauri
         myfirstObject["firstName"] ——> Gauri
         myfirstObject["1000"] ——> This is how to access a numeric key
-    ```
+   ```
 
    Example in [objects.js](objects.js)
    
