@@ -30,11 +30,11 @@
 ### Creating Objects
 
  #### Object Literals
-    * The most common and easiest way to create object is with object literal
+   * The most common and easiest way to create object is with object literal
  #### Object Constructor
-    * The second most common way to create object is with constructor.
-    * Constructor is nothing but a function used for initializing new objects.
-    * use `new` keyword to call the constructor
+   * The second most common way to create object is with constructor.
+   * Constructor is nothing but a function used for initializing new objects.
+   * use `new` keyword to call the constructor
 
    Example in [object-creation.js](object-creation.js)
 
